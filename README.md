@@ -155,3 +155,9 @@ O uso do NotebookLM permitiu organizar fontes confiáveis, gerar insights e cons
 ✔ Curadoria de fontes confiáveis  
 ✔ Uso de IA para aprendizado ativo  
 ✔ Material pronto para revisão e estudo contínuo  
+
+## 📎 NotebookLM (Caderno Temático)
+
+Acesse o caderno criado com Inteligência Artificial no NotebookLM:
+
+🔗 https://notebooklm.google.com/notebook/1cae7cef-7046-4e99-9c62-69c126143a2e
